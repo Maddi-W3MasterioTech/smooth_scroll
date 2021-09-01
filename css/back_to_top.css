@@ -1,7 +1,4 @@
-/*--------------------
- Back to Top Button
----------------------*/
-.scrollToTopBtn {
+.scrollToTopBtn{
   background-color: #2e56ac;
   border: none;
   border-radius: 50%;
@@ -24,7 +21,7 @@
   transition: all 0.5s ease;
 }
 
-.showBtn {
+.showBtn{
   opacity: 1;
   transform: translateY(0);
 }
